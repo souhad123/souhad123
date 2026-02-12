@@ -1,4 +1,14 @@
-## Hi there 👋
+##  👋 Hey, I'm CHENOUF Zahra Souhad
+
+
+🎓 Computer Science Student
+💻 Full-stack devloper 
+📊 Interested in data-driven systems and the challenges of artificial intelligence
+🚀 Seeking a Master’s program and a work-study opportunity to deepen my expertise
+
+
+
+
 
 <!--
 **souhad123/souhad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
