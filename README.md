@@ -15,7 +15,7 @@
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/souhadchenouf/]
+- LinkedIn: https://www.linkedin.com/in/souhadchenouf/
 - Email: chenoufsouhad123@gmail.com
 
 <!--
