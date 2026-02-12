@@ -2,7 +2,7 @@
 
 
 
-![Mon intro animée](souhad123/animated_intro.gif)
+![Mon intro animée](animated_intro.gif)
 
 
 
