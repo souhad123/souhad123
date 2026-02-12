@@ -5,6 +5,18 @@
 ![Mon intro animée](animated_intro1.gif)
 
 
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/souhadchenouf/]
+- Email: chenoufsouhad123@gmail.com
 
 <!--
 **souhad123/souhad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
