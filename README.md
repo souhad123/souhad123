@@ -3,6 +3,25 @@
 
 
 ![Mon intro animée](animated_intro1.gif)
+ 
+---
+
+
+🧠 About Me
+class Developer:
+def __init__(self):
+self.name = " Zahra Souhad CHENOUF "
+self.role = "Full-Stack Developer & AI / Cybersecurity Enthusiast"
+self.location = "Dijon, France 🇫🇷"
+self.passions = [
+  "Data Analysis & Visualization",
+  "Machine Learning Basics & AI Systems",
+  "Graph Algorithms",
+  "Web Development",
+  "Cybersecurity Fundamentals"
+]
+
+---
 
 
 ## 🚀 Tech Stack
