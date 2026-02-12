@@ -68,6 +68,9 @@ class Developer:
 
 ## 📫 Contact
 
+
+Curious L3 Computer Science student, preparing for a Master in Data, AI, or Cybersecurity — always happy to exchange, collaborate, and learn through tech projects.
+
 - LinkedIn: https://www.linkedin.com/in/souhadchenouf/
 - Email: chenoufsouhad123@gmail.com
 
