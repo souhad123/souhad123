@@ -17,9 +17,10 @@ class Developer:
         self.passions = [
             "Data Analysis & Visualization",
             "Machine Learning Basics & AI Systems",
+            "Cybersecurity Fundamentals"
             "Graph Algorithms",
             "Web Development",
-            "Cybersecurity Fundamentals"
+           
         ]
 ```
 
