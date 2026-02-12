@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
 ![XML](https://img.shields.io/badge/XML-orange?logo=xml)
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?logo=mathworks)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
@@ -34,6 +35,12 @@
 ### 🛠 Compilers & Parsing
 ![Lex](https://img.shields.io/badge/Lex-orange)
 ![Yacc](https://img.shields.io/badge/Yacc-red)
+
+
+### 🤖 Artificial Intelligence & ML
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-blue?logo=python)
+
 ---
 
 ## 📫 Contact
