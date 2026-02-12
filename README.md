@@ -7,10 +7,33 @@
 
 ## 🚀 Tech Stack
 
+### 💻 Languages & Technologies
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![XML](https://img.shields.io/badge/XML-orange?logo=xml)
 
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
+### 📊 Databases & Data
+![SQL](https://img.shields.io/badge/SQL-grey?logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
+
+### ⚙️ DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+
+### 🛠 Compilers & Parsing
+![Lex](https://img.shields.io/badge/Lex-orange)
+![Yacc](https://img.shields.io/badge/Yacc-red)
 ---
 
 ## 📫 Contact
