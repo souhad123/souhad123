@@ -66,6 +66,36 @@ class Developer:
 
 ---
 
+
+## 🏆 Expertise & Capabilities
+
+```mermaid
+mindmap
+ root((Zahra Souhad Chenouf))
+  Data & Databases
+   Data Analysis
+   SQL & PostgreSQL
+   MySQL / Oracle
+   Graph Modeling
+  Cybersecurity
+   System Security Fundamentals
+   Network Basics
+   Secure Coding Practices
+  Artificial Intelligence
+   Machine Learning Basics
+   NLP Foundations
+   Python for AI
+   MATLAB
+  Core Computer Science
+   Algorithms & Graphs
+   Operating Systems
+   Compilers & Parsing (Lex/Yacc)
+   Web Development (HTML/CSS/JS/PHP)
+
+```
+
+---
+
 ## 📫 Contact
 
 
